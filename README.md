@@ -109,7 +109,7 @@ There are **two sketches** in this repo:
 
 ![Wiring diagram: Wireless Link: receiver board](wiring_receiver.png)
 
-The parts are drawn as simple blocks showing only the pins you connect. **Always follow the labels printed on your own modules** — the pin order differs between manufacturers.
+The parts are drawn in a simplified way, showing only the pins you connect. **Always follow the labels printed on your own modules** — the pin order differs between manufacturers.
 
 Good to know:
 
