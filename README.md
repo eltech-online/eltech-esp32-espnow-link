@@ -80,7 +80,7 @@ There are **two sketches** in this repo:
 | Component | Notes |
 |---|---|
 | 2 × ESP32-C3 SuperMini |  |
-| AHT20+BMP280 sensor module | 4 pins: `SCL`, `GND`, `SDA`, `VDD`. Goes on the sender |
+| AHT20+BMP280 sensor module | 4 pins: `VDD`, `SDA`, `GND`, `SCL`. Goes on the sender |
 | 1.3" OLED, SH1106 driver, 128×64, I2C | Address `0x3C` (try `0x3D` if blank). Goes on the receiver |
 | 2 × breadboard + jumper wires | 4 wires on each board |
 | A second USB power source | Not in the kit: a phone charger or power bank, so the sender can go to another room |
